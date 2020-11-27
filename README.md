@@ -7,3 +7,5 @@ Nok en linje med tekst.
 Nå editerer jeg på Github
 
 Nå editerer jeg enda mer der.
+
+Det blir ikke i sync...
