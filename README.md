@@ -10,3 +10,4 @@ Nå editerer jeg på Github
 Nå editerer jeg enda mer der.
 
 Det blir ikke i sync...
+Hvor kommer dette?
