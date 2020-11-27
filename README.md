@@ -12,3 +12,5 @@ Nå editerer jeg enda mer der.
 Det blir ikke i sync...
 
 Hvor kommer dette? Det kom inn. får jeg det andre veien også?
+
+Her er det enda mer
