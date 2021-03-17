@@ -16,3 +16,5 @@ Hvor kommer dette? Det kom inn. får jeg det andre veien også?
 Her er det enda mer
 
 Og så andre veien igjen
+
+Her har jeg lagt til en linje i en ny gren. Prøver å få den inn i main.
